@@ -1,3 +1,7 @@
+a{
+    text-decoration: none;
+}
+
 .button-wrapper {
     display: flex;
     justify-content: center;

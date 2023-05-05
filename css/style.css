@@ -1,13 +1,10 @@
-a{
-    text-decoration: none;
-}
-
 .button-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100vw;
     height: 100vh;
+
 }
 
 .button {
@@ -20,8 +17,7 @@ a{
     border-radius: 25px;
     padding-left: 35px;
     padding-top: 10px;
-
-
+    text-decoration: none;
 
 }
 
